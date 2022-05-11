@@ -14,5 +14,6 @@ public class Test {
         System.out.println("第四次测试");
         System.out.println("master分支修改合并测试");
         System.out.println("hot-fix修改测试冲突");
+        System.out.println("github线上修改测试");
     }
 }
